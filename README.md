@@ -1,4 +1,10 @@
-### Hola Mundo 👋
+# Hola Mundo 👋
+🌓*Soy programador*
+🌓*Me gusta escuchar música*
+## Contacto 🤠
+**🌓Email : deymons.godofwar.lmr@gmail.com**
+**🌓Teléfono : 3704680739**
+
 
 <!--
 **Elekasal/Elekasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
