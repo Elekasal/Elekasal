@@ -7,7 +7,7 @@
 ## Datos Personales 🥇
 **🌓Nombre Completo : Lucas Manuel González Regis**
 ### 
-**🌓D.N.I : 44224922**
+**🌓Localidad : Argentina, Formosa Capital**
 #### 
 ## Contacto 🤠
 **🌓Email : deymons.godofwar.lmr@gmail.com**
