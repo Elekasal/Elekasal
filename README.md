@@ -1,6 +1,14 @@
 # Hola Mundo 👋
 🌓*Soy programador*
+### 
 🌓*Me gusta escuchar música*
+###
+*🌓Estudiante de la Universidad Cuenca del Plata*
+## Datos Personales 🥇
+**🌓Nombre Completo : Lucas Manuel González Regis**
+### 
+**🌓D.N.I : 44224922**
+#### 
 ## Contacto 🤠
 **🌓Email : deymons.godofwar.lmr@gmail.com**
 **🌓Teléfono : 3704680739**
