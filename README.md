@@ -3,7 +3,7 @@
 ### 
 🌓*Me gusta escuchar música*
 ###
-*🌓Estudiante de la Universidad Cuenca del Plata*
+*🌓Estudiante*
 ## Datos Personales 🥇
 **🌓Nombre Completo : Lucas Manuel González Regis**
 ### 
