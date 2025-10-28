@@ -1,17 +1,16 @@
 # Hola Mundo 👋
-🌓*Soy programador*
-### 
-🌓*Me gusta escuchar música*
+*Soy Tecnico Universitario en Sistemas de Información### 
+
 ###
 *🌓Estudiante*
-## Datos Personales 🥇
+## Datos Personales 
 **🌓Nombre Completo : Lucas Manuel González Regis**
 ### 
 **🌓Localidad : Argentina, Formosa Capital**
 #### 
-## Contacto 🤠
+## Contacto 
 **🌓Email : deymons.godofwar.lmr@gmail.com**
-**🌓Teléfono : +543704680739**
+**🌓Teléfono : +543704006289**
 
 
 <!--
