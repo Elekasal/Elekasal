@@ -1,8 +1,7 @@
 # Hola Mundo 👋
-*Soy Tecnico Universitario en Sistemas de Información### 
 
 ###
-*🌓Estudiante*
+*🌓TECNICO UNIVERSITARIO EN SISTEMAS DE INFORMACIÓN*
 ## Datos Personales 
 **🌓Nombre Completo : Lucas Manuel González Regis**
 ### 
